@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pesquisa-filmes/static/css/main.b666c020.css",
-    "main.js": "/pesquisa-filmes/static/js/main.e71dc8b8.js",
+    "main.js": "/pesquisa-filmes/static/js/main.3de13b60.js",
     "static/js/453.9fe62469.chunk.js": "/pesquisa-filmes/static/js/453.9fe62469.chunk.js",
     "index.html": "/pesquisa-filmes/index.html",
     "main.b666c020.css.map": "/pesquisa-filmes/static/css/main.b666c020.css.map",
-    "main.e71dc8b8.js.map": "/pesquisa-filmes/static/js/main.e71dc8b8.js.map",
+    "main.3de13b60.js.map": "/pesquisa-filmes/static/js/main.3de13b60.js.map",
     "453.9fe62469.chunk.js.map": "/pesquisa-filmes/static/js/453.9fe62469.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b666c020.css",
-    "static/js/main.e71dc8b8.js"
+    "static/js/main.3de13b60.js"
   ]
 }
